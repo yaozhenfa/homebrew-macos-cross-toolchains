@@ -14,7 +14,7 @@ class Aarch64UnknownLinuxGnu < Formula
     sha256 "a87669a9df908d8d8859849a0f9fc0fb287561a4e449c21dade10663d42d2ccb"
   else
     url "https://github.com/yaozhenfa/homebrew-macos-cross-toolchains/releases/download/v1.0/aarch64-unknown-linux-gnu-x86_64-darwin.tar"
-    sha256 "aa12838587d1a1bf97428b5a42cad9fe7b543b75f934efa8c1bceaedc13fc1bc"
+    sha256 "d6e8d5f7a750eeaf2d01998f1bc178b2a75d4d0b1169dce25807026621ff2813"
   end
 
   def install
