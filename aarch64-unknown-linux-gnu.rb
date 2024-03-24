@@ -2,7 +2,7 @@ class Aarch64UnknownLinuxGnu < Formula
   desc "aarch64 Linux GNU Toolchain"
   homepage "https://github.com/messense/homebrew-macos-cross-toolchains"
   license "GPL-3.0-or-later" => { with: "GCC-exception-3.1" }
-  version "13.2.0"
+  version "1.0"
 
   depends_on "bdw-gc"
   depends_on "guile"
