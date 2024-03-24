@@ -20,8 +20,6 @@ jobs:
         os:
           - name: macos-11
             arch: x86_64
-          - name: macos-14
-            arch: aarch64
         target:
           - x86_64-unknown-linux-gnu
           - aarch64-unknown-linux-gnu

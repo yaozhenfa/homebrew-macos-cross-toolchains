@@ -17,7 +17,7 @@ jobs:
           - macos-14
     steps:
       - name: brew tap
-        run: brew tap messense/macos-cross-toolchains
+        run: brew tap yaozhenfa/macos-cross-toolchains
       - name: brew install
         run: |
           brew install \
